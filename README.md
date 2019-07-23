@@ -1,2 +1,2 @@
 # JavaBottle
-This is simple program who can perform a operations on bottles.
+This is a simple program who can perform a operations on bottles.
